@@ -1,8 +1,8 @@
 # UrlCommon
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/url_common`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is a gem for performing common Url centric things.  I wrote this years ago and have always just moved it from project to project leading to a huge number of different versions on my development system.  Finally I'm creating a gem out of it to aid in its use across projects.
 
-TODO: Delete this and the text above, and describe your gem
+I don't claim that these are great, perfect, etc.  I claim that they are workman like tools which I FIND USEFUL and I want to use them more easily across multiple projects hence the open sourcing of them.
 
 ## Installation
 
@@ -23,6 +23,8 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+
+This is a todo.
 
 ## Development
 
